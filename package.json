@@ -8,7 +8,7 @@
     "src"
   ],
   "engines": {
-    "node": ">=10"
+    "node": ">=12.13.0"
   },
   "scripts": {
     "start": "tsdx watch",
@@ -83,6 +83,6 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "tailwindcss": "^2.0.1"
+    "tailwindcss": "^2.0.2"
   }
 }
