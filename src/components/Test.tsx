@@ -13,8 +13,6 @@ import tw, { css } from 'twin.macro';
 
 */
 
-
-
 const divStyle = css`
   ${tw`max-w-xs text-center mx-auto border-indigo-500 hover:bg-white hover:shadow-lg hover:border-transparent`}
 `;
